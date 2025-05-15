@@ -11,3 +11,8 @@ $ docker run -d --name cat-service cat_service
 $ docker build -t nginx-docker .
 $ docker run -d -p 8000:80 --link cat-service nginx-docker
 ```
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Stay curious. Keep learning. Keep growing.
+🧑‍💻
+<!-- INSPIRATIONAL_QUOTE_END -->
