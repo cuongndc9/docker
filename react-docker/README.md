@@ -5,6 +5,6 @@ $ docker run -d -p 3000:3000 -v /home/cuongw/Workspace/docker/react-docker:/app 
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🐯
+Discomfort is the currency of your dreams.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
