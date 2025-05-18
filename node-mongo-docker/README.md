@@ -22,3 +22,8 @@ $ docker logs -f 600a7ca0f74a
 | /api/cats/:catId | `PUT`       | Update a cat with new info. |
 | /api/cats/:catId | `DELETE`    | Delete a cat.               |
 
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+Action beats perfection.
+🦖
+<!-- INSPIRATIONAL_QUOTE_END -->

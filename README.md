@@ -97,3 +97,8 @@ Một câu hỏi đặt ra là nếu tôi muốn khởi động nhiều ứng d�
 - [Docker Swarm — Kiến thức về Docker (Phần 4)](https://medium.com/@phamducquan/docker-swarm-ki%E1%BA%BFn-th%E1%BB%A9c-v%E1%BB%81-docker-ph%E1%BA%A7n-4-e698e99b92f8)
 
 😋 Awesome
+
+<!-- INSPIRATIONAL_QUOTE_START -->
+The best way to predict the future is to create it.
+🐯
+<!-- INSPIRATIONAL_QUOTE_END -->
