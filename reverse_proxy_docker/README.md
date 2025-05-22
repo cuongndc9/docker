@@ -15,5 +15,5 @@ $ docker run -d -p 8000:80 --link cat-service nginx-docker
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Be a lifelong learner, not a know-it-all.
-🐶
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
