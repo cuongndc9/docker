@@ -99,6 +99,6 @@ Một câu hỏi đặt ra là nếu tôi muốn khởi động nhiều ứng d�
 😋 Awesome
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🧑‍💻,
+Stay curious. Keep learning. Keep growing.
+👀,
 <!-- INSPIRATIONAL_QUOTE_END -->
