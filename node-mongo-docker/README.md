@@ -25,5 +25,5 @@ $ docker logs -f 600a7ca0f74a
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Be a lifelong learner, not a know-it-all.
-👻
+🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
