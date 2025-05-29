@@ -24,6 +24,6 @@ $ docker logs -f 600a7ca0f74a
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-🦄
+Be a lifelong learner, not a know-it-all.
+👻
 <!-- INSPIRATIONAL_QUOTE_END -->
