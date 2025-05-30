@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Action beats perfection.
-🦄
+🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
