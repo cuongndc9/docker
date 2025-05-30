@@ -6,6 +6,6 @@ $ docker run --name nginx-docker -p 9000:80 -v "$PWD":/usr/share/nginx/html:ro -
 ``
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Stay curious. Keep learning. Keep growing.
-👀,
+The best way to predict the future is to create it.
+👻
 <!-- INSPIRATIONAL_QUOTE_END -->
