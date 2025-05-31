@@ -99,6 +99,6 @@ Một câu hỏi đặt ra là nếu tôi muốn khởi động nhiều ứng d�
 😋 Awesome
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🐶
+Discomfort is the currency of your dreams.
+🧑‍💻,
 <!-- INSPIRATIONAL_QUOTE_END -->
