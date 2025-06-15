@@ -14,5 +14,5 @@ $ docker run -d -p 8000:80 --link cat-service nginx-docker
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It is during our darkest moments that we must focus to see the light." - Aristotle
+> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
 <!-- INSPIRATIONAL_QUOTE_END -->

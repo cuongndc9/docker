@@ -24,5 +24,5 @@ $ docker logs -f 600a7ca0f74a
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->

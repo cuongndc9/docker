@@ -4,5 +4,5 @@ Multiple databases 🐳🐳 for PostgreSQL Docker Image
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The only impossible journey is the one you never begin." - Tony Robbins
+> "The only way to do great work is to love what you do." - Steve Jobs
 <!-- INSPIRATIONAL_QUOTE_END -->
