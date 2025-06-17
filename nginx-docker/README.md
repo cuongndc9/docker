@@ -6,5 +6,5 @@ $ docker run --name nginx-docker -p 9000:80 -v "$PWD":/usr/share/nginx/html:ro -
 ``
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
+> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
 <!-- INSPIRATIONAL_QUOTE_END -->

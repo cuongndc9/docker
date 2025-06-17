@@ -5,5 +5,5 @@ $ docker run -d -p 3000:3000 -v /home/cuongw/Workspace/docker/react-docker:/app 
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "In the middle of difficulty lies opportunity." - Albert Einstein
+> "We may encounter many defeats but we must not be defeated." - Maya Angelou
 <!-- INSPIRATIONAL_QUOTE_END -->

@@ -99,5 +99,5 @@ Một câu hỏi đặt ra là nếu tôi muốn khởi động nhiều ứng d�
 😋 Awesome
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
