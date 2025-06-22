@@ -99,5 +99,5 @@ Một câu hỏi đặt ra là nếu tôi muốn khởi động nhiều ứng d�
 😋 Awesome
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "A person who never made a mistake never tried anything new." - Albert Einstein
+> "It is during our darkest moments that we must focus to see the light." - Aristotle
 <!-- INSPIRATIONAL_QUOTE_END -->

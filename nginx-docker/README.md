@@ -6,5 +6,5 @@ $ docker run --name nginx-docker -p 9000:80 -v "$PWD":/usr/share/nginx/html:ro -
 ``
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
+> "We may encounter many defeats but we must not be defeated." - Maya Angelou
 <!-- INSPIRATIONAL_QUOTE_END -->
