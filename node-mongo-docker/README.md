@@ -24,5 +24,5 @@ $ docker logs -f 600a7ca0f74a
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Don't let yesterday take up too much of today." - Will Rogers
+> "In the middle of difficulty lies opportunity." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
