@@ -99,5 +99,5 @@ Một câu hỏi đặt ra là nếu tôi muốn khởi động nhiều ứng d�
 😋 Awesome
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "If you are working on something that you really care about, you don't have to be pushed. The vision pulls you." - Steve Jobs
+> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 <!-- INSPIRATIONAL_QUOTE_END -->
