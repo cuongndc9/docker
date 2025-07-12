@@ -5,5 +5,5 @@ $ docker run -d -p 3000:3000 -v /home/cuongw/Workspace/docker/react-docker:/app 
 ```
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
+> "It's not whether you get knocked down, it's whether you get up." - Vince Lombardi
 <!-- INSPIRATIONAL_QUOTE_END -->

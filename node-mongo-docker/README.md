@@ -24,5 +24,5 @@ $ docker logs -f 600a7ca0f74a
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "The way to get started is to quit talking and begin doing." - Walt Disney
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
